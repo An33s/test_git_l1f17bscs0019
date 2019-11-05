@@ -1,3 +1,4 @@
-"Name: Anees Ur Rehman" 
+Name: Anees Rehman 
 Email:anees700@ucp.edu.pk
 Faculty of Information Technology
+UCP
